@@ -1,0 +1,15 @@
+[
+{
+  "text": "<@U08FL9M9P> RallyBot v2",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438805370.000338"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "can you update rally userstory US60736",
+  "ts": "1438805343.000337"
+}
+]

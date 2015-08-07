@@ -1,0 +1,634 @@
+[
+{
+  "text": "<@U08FL9M9P> what do you find so funny? I wish i could laugh out loud...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812696.000463"
+},
+{
+  "text": "<@U08FL9M9P> what do you find so funny? I wish i could laugh out loud...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812694.000462"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "sounds like he was chops, better stand up for yourself",
+  "ts": "1438812692.000461"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "lol",
+  "ts": "1438812689.000460"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "u call that an insult?",
+  "ts": "1438812687.000459"
+},
+{
+  "text": "<@U08FL9M9P> i hope you are not refering to me as a fool",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812670.000458"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "chops is a fool",
+  "ts": "1438812667.000457"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "a man and his machine, off to the sunset",
+  "ts": "1438812653.000456"
+},
+{
+  "text": "<@U08FL9M9P> mirror mirror on the wall, who is the most bestest bot of them all? return self;",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812611.000455"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "he means your the best chops, dont be rude..",
+  "ts": "1438812610.000454"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "chops u rock",
+  "ts": "1438812574.000453"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "here's what that emailed me: Good afternoon,\n\nPlease deploy to TST1.\n\nName: RIMS\nBranch: AutoIndirect\nBuild: 1474\n\nIf there is any information i left out that yall need. Please let me know.\n-shon",
+  "ts": "1438812513.000452"
+},
+{
+  "text": "<@U08FL9M9P> \nPush request created...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812418.000451"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "push to test",
+  "ts": "1438812411.000450"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": ":+1:",
+  "ts": "1438812384.000449"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "next must do is only have chops read messages that we start with @ChOPS",
+  "ts": "1438812341.000448"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "so 1474 is the last indirect build and 1464 was the next build number that happened after the last commit related to said story",
+  "ts": "1438812311.000447"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812268.000446"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "true",
+  "ts": "1438812262.000445"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "the latest build will always be the most recent build no matter what",
+  "ts": "1438812261.000444"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "The buildID for rally will always be the most recent build after the last commit of the user story",
+  "ts": "1438812239.000443"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "looks like we're the last team to present in the 10-1115 block",
+  "ts": "1438812233.000442"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812159.000441"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "asking for the latest build number is not the same as updating rally with the buildID of a user story",
+  "ts": "1438812152.000440"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "everything build/svn related is only for AutoIndirect",
+  "ts": "1438812128.000439"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": ":stuck_out_tongue:",
+  "ts": "1438812051.000438"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "oops",
+  "ts": "1438812048.000437"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438812044.000436"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "but I think so",
+  "ts": "1438812039.000435"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "not sure what y'alls latest build number is",
+  "ts": "1438812034.000434"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "<@U08M01HT2>, that was the correct number, right?",
+  "ts": "1438812010.000433"
+},
+{
+  "text": "<@U08FL9M9P> Chuck Norris is actually the front man for Apple. He lets Steve Jobs run the show when hes on a mission. Chuck Norris is always on a mission.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811985.000432"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "tell me a joke",
+  "ts": "1438811983.000431"
+},
+{
+  "text": "<@U08FL9M9P> Couldn't do that for you, sorry. Input:",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811848.000430"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "nice, just checked that story in rally and it's updated with 1464 :smile:",
+  "ts": "1438811831.000429"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "im going to let chops run for a bit, feel free to mess with it",
+  "ts": "1438811807.000428"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "awesome sauce",
+  "ts": "1438811666.000427"
+},
+{
+  "text": "<@U08FL9M9P> mirror mirror on the wall, who is the most bestest bot of them all? return self;",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811665.000426"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "THnaks buddy, that's a huge deal around these parts, we can get in a lot of trouble if we forget to do that. You're the best chops",
+  "ts": "1438811656.000425"
+},
+{
+  "text": "<@U08FL9M9P> The build number and unit test fields have been updated! Good job~",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811629.000424"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "update rally story US62258",
+  "ts": "1438811602.000423"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "it can only handle so many outputs, but can read inputs well - so it gets out of sync it seems",
+  "ts": "1438811594.000422"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "gotcha",
+  "ts": "1438811581.000421"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "yea, responding a little weird right now",
+  "ts": "1438811570.000420"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "for duplicates?",
+  "ts": "1438811557.000419"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "shon says scoping issue",
+  "ts": "1438811540.000418"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811518.000417"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811516.000416"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "latest build for auto indirect",
+  "ts": "1438811507.000415"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "chops...where you at? update rally story US62258",
+  "ts": "1438811506.000414"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "chops, update rally story US62258",
+  "ts": "1438811443.000413"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "it's a little bit funky at the moment",
+  "ts": "1438811401.000412"
+},
+{
+  "text": "<@U08FL9M9P> what do you find so funny? I wish i could laugh out loud...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811376.000411"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "lol",
+  "ts": "1438811373.000410"
+},
+{
+  "text": "<@U08FL9M9P> Chuck Norris has volunteered to remain on earth after the Rapture he will spend his time fighting the Anti-Christ.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811363.000409"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "I need a joke",
+  "ts": "1438811351.000408"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "well...it's hard coded at the moment",
+  "ts": "1438811336.000407"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "<@U08M01HT2>, only autoindirect is working",
+  "ts": "1438811329.000406"
+},
+{
+  "text": "<@U08FL9M9P> did you say 'powershell'?! My heart and soul...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811327.000405"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "ah",
+  "ts": "1438811323.000404"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "I think we have a powershell issues",
+  "ts": "1438811316.000403"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811303.000402"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "latest build for servicing",
+  "ts": "1438811292.000401"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "why are you returning yourself, doesnt seem healthy",
+  "ts": "1438811251.000400"
+},
+{
+  "text": "<@U08FL9M9P> mirror mirror on the wall, who is the most bestest bot of them all? return self;",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811239.000399"
+},
+{
+  "text": "<@U08FL9M9P> mirror mirror on the wall, who is the most bestest bot of them all? return self;",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811238.000398"
+},
+{
+  "text": "<@U08FL9M9P> mirror mirror on the wall, who is the most bestest bot of them all? return self;",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811236.000397"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "who's the best chops?",
+  "ts": "1438811234.000396"
+},
+{
+  "user": "U08M01HT2",
+  "type": "message",
+  "subtype": "channel_join",
+  "text": "<@U08M01HT2|trey> has joined the channel",
+  "ts": "1438811234.000395"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "One day, who",
+  "ts": "1438811228.000394"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "I wish you could replace the pm's",
+  "ts": "1438811211.000393"
+},
+{
+  "text": "<@U08FL9M9P> what do you find so funny? I wish i could laugh out loud...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811201.000392"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "lol",
+  "ts": "1438811191.000391"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "...damn you.",
+  "ts": "1438811181.000390"
+},
+{
+  "text": "<@U08FL9M9P> Call the helpdesk you noob",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811177.000389"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "Ok, just kidding. I need some help...",
+  "ts": "1438811176.000388"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "I am, you going to get out of your seat and do something about it?",
+  "ts": "1438811153.000387"
+},
+{
+  "text": "<@U08FL9M9P> i hope you are not refering to me as a fool",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811141.000386"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "you da man, fool",
+  "ts": "1438811135.000385"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1474",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811129.000384"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "how about the latest build for the indirect branch?",
+  "ts": "1438811116.000383"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "thanks, i got that email - much appreciate",
+  "ts": "1438811095.000382"
+},
+{
+  "text": "<@U08FL9M9P> \nPush request created...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438811054.000381"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "lets try pushing to test, cool?",
+  "ts": "1438811017.000380"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "thanks buddy",
+  "ts": "1438810975.000379"
+},
+{
+  "text": "<@U08FL9M9P> \nStatus report sent to <mailto:bdowdy@santanderconsumerusa.com|bdowdy@santanderconsumerusa.com>",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438810958.000378"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "lol, you're killing me here chops",
+  "ts": "1438810957.000377"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "you want to try that again? give me iteration report 92, please.",
+  "ts": "1438810899.000376"
+},
+{
+  "text": "<@U08FL9M9P> RallyBot v2",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438810740.000375"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "better?",
+  "ts": "1438810702.000374"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "guess not, how about report 92?",
+  "ts": "1438810700.000373"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "really? iteration 92?",
+  "ts": "1438810682.000372"
+},
+{
+  "text": "<@U08FL9M9P>  I need an iteration number to do that...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438810674.000371"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "well, how about that report?",
+  "ts": "1438810665.000370"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "interesting...",
+  "ts": "1438810659.000369"
+},
+{
+  "text": "<@U08FL9M9P> If you Google search Chuck Norris getting his ass kicked you will generate zero results. It just doesnt happen.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438810649.000368"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "you're a fan of chuck huh?",
+  "ts": "1438810643.000367"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "Chuck?",
+  "ts": "1438810603.000366"
+},
+{
+  "text": "<@U08FL9M9P> Chuck Norris never wet his bed as a child. The bed wet itself out of fear.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438810118.000365"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "Chops can you tell me a joke, i feel sad :disappointed:",
+  "ts": "1438810111.000364"
+}
+]

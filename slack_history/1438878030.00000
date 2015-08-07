@@ -1,0 +1,21 @@
+[
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "good job chops, appreciate it",
+  "ts": "1438878039.000919"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "oh yeah, it's the next build after the last commit --- i forgot",
+  "ts": "1438878033.000918"
+},
+{
+  "text": "<@U08FVFG2V> The latest build for autoindirect is 1475",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438878030.000917"
+}
+]

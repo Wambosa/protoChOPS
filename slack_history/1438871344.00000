@@ -1,0 +1,15 @@
+[
+{
+  "type": "message",
+  "user": "U08FL9M9P",
+  "text": "$response += .\\rodney_bot.ps1",
+  "ts": "1438871355.000756"
+},
+{
+  "text": "<@U08FL9M9P> i hope you are not refering to me as a fool If you're feeling good, don't worry. You'll get over it.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438871344.000755"
+}
+]

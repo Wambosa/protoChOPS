@@ -1,0 +1,40 @@
+[
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "ermm.. this is shon",
+  "ts": "1438803138.000317"
+},
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "nooooooooooo! we have destroyed ross's patience",
+  "ts": "1438803129.000316"
+},
+{
+  "user": "U04V68Q3N",
+  "type": "message",
+  "subtype": "channel_leave",
+  "text": "<@U04V68Q3N|smugdeveloper> has left the channel",
+  "ts": "1438803111.000315"
+},
+{
+  "type": "message",
+  "user": "U04V68Q3N",
+  "text": "Leaving temporarily.",
+  "ts": "1438803101.000314"
+},
+{
+  "type": "message",
+  "user": "U04V68Q3N",
+  "text": "Leaving temporarily.",
+  "ts": "1438803087.000313"
+},
+{
+  "text": "<@U08FL9M9P> Couldn't do that for you, sorry. Input: US60736",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438803030.000312"
+}
+]

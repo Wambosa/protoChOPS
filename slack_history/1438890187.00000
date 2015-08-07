@@ -1,0 +1,52 @@
+[
+{
+  "type": "message",
+  "subtype": "file_share",
+  "text": "<@U04V68Q3N|smugdeveloper> uploaded a file: <https://itbootcamp.slack.com/files/smugdeveloper/F08NKN6LX/pasted_image_at_2015_08_06_02_42_pm.png|Timeline of ChOps development.>",
+  "file": {
+    "id": "F08NKN6LX",
+    "created": 1438890186,
+    "timestamp": 1438890186,
+    "name": "Pasted image at 2015_08_06 02_42 PM.png",
+    "title": "Timeline of ChOps development.",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U04V68Q3N",
+    "editable": false,
+    "size": 58833,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url": "https://slack-files.com/files-pub/T04V68Q36-F08NKN6LX-918d86a085/pasted_image_at_2015_08_06_02_42_pm.png",
+    "url_download": "https://slack-files.com/files-pub/T04V68Q36-F08NKN6LX-918d86a085/download/pasted_image_at_2015_08_06_02_42_pm.png",
+    "url_private": "https://files.slack.com/files-pri/T04V68Q36-F08NKN6LX/pasted_image_at_2015_08_06_02_42_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T04V68Q36-F08NKN6LX/download/pasted_image_at_2015_08_06_02_42_pm.png",
+    "thumb_64": "https://slack-files.com/files-tmb/T04V68Q36-F08NKN6LX-382c192fbf/pasted_image_at_2015_08_06_02_42_pm_64.png",
+    "thumb_80": "https://slack-files.com/files-tmb/T04V68Q36-F08NKN6LX-382c192fbf/pasted_image_at_2015_08_06_02_42_pm_80.png",
+    "thumb_360": "https://slack-files.com/files-tmb/T04V68Q36-F08NKN6LX-382c192fbf/pasted_image_at_2015_08_06_02_42_pm_360.png",
+    "thumb_360_w": 356,
+    "thumb_360_h": 360,
+    "thumb_160": "https://slack-files.com/files-tmb/T04V68Q36-F08NKN6LX-382c192fbf/pasted_image_at_2015_08_06_02_42_pm_160.png",
+    "image_exif_rotation": 1,
+    "permalink": "https://itbootcamp.slack.com/files/smugdeveloper/F08NKN6LX/pasted_image_at_2015_08_06_02_42_pm.png",
+    "permalink_public": "https://slack-files.com/T04V68Q36-F08NKN6LX-918d86a085",
+    "channels": [
+      "C08HB6327"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0
+  },
+  "user": "U04V68Q3N",
+  "upload": true,
+  "display_as_bot": false,
+  "username": "<@U04V68Q3N|smugdeveloper>",
+  "bot_id": null,
+  "ts": "1438890188.001051"
+}
+]

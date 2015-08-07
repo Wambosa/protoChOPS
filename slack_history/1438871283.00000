@@ -1,0 +1,15 @@
+[
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1475",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438871284.000751"
+},
+{
+  "type": "message",
+  "user": "U08FL9M9P",
+  "text": "push that build to test",
+  "ts": "1438871284.000750"
+}
+]

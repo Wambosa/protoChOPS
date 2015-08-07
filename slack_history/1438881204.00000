@@ -1,0 +1,15 @@
+[
+{
+  "type": "message",
+  "user": "U04V68Q3N",
+  "text": "can I get the latest build number?",
+  "ts": "1438881208.000928"
+},
+{
+  "text": "<@U04V68Q3N> greetings fragile human...",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438881204.000927"
+}
+]

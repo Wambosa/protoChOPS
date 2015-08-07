@@ -1,0 +1,15 @@
+[
+{
+  "text": "<@U08M01HT2> Chuck Norris can write infinite recursion functions and have them return.",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438874824.000850"
+},
+{
+  "type": "message",
+  "user": "U08M01HT2",
+  "text": "joke",
+  "ts": "1438874822.000849"
+}
+]

@@ -1,0 +1,15 @@
+[
+{
+  "type": "message",
+  "user": "U08FL9M9P",
+  "text": "get tai the latest builds",
+  "ts": "1438871274.000749"
+},
+{
+  "text": "<@U08FL9M9P> The latest build for autoindirect is 1475",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438871272.000748"
+}
+]

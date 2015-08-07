@@ -1,0 +1,15 @@
+[
+{
+  "text": "<@U08FL9M9P> RallyBot v2",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438802041.000293"
+},
+{
+  "type": "message",
+  "user": "U08FL9M9P",
+  "text": "chops! jim needs bullet points for the presentation! get to it!",
+  "ts": "1438802019.000292"
+}
+]

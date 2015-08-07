@@ -1,0 +1,15 @@
+[
+{
+  "type": "message",
+  "user": "U08FVFG2V",
+  "text": "wow sweet, thanks!",
+  "ts": "1438885711.001023"
+},
+{
+  "text": "<@U08FVFG2V> \nStatus report sent to <mailto:bdowdy@santanderconsumerusa.com|bdowdy@santanderconsumerusa.com>",
+  "username": "ChOPS",
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1438885705.001022"
+}
+]
