@@ -1,0 +1,29 @@
+
+
+
+other ChOPS tips
+
+
+possibly make a lync cli client http://blogs.technet.com/b/csps/archive/2011/05/05/sendim.aspx
+
+
+for viewing build information
+
+http://rchpwvadtmgm01.prod.corpint.net/ccnet/server/local/project/AutoIndirect%20Build/ViewProjectReport.aspx
+
+
+function GetLatestBuildNumber {
+	#https://msdn.microsoft.com/en-us/library/microsoft.powershell.commands.htmlwebresponseobject_properties(v=vs.85).aspx
+	
+	$link = "http://rchpwvadtmgm01.prod.corpint.net/ccnet/server/local/project/AutoIndirect%20Build/ViewProjectReport.aspx";
+	$raw = ((Invoke-Webrequest -Uri $link).parsedHtml.getElementById("projectStatus")).innerText
+	([regex]::matches($raw, "\d\d\d\d") | %{$_.value})
+}
+
+or
+
+ccnet/xmlserverreport.aspx
+
+
+
+for spinning a build. you can post to the link action and pass in some basic form post data. the form is url encoded

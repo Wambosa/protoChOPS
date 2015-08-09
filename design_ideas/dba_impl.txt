@@ -1,0 +1,27 @@
+***Email to DBA.ServiceRequest@santanderconsumerusa.com
+***attach files produced in the gendbaimpl.bat
+ 
+
+Subject: DreamTeam - Residual Incentive Management
+
+Body: 
+Please create a new impl or append to an existing impl for the attached.
+These scripts are to be run on REPORTING.
+
+Project: Residual Incentive Management
+Team(S): DreamTeam 
+Projected test date:  now()
+Projected production date:  
+DB implementation Name:
+Execute in DEV1?: No
+Execute in TST1 (dac30144tsql01\reporting)?  Yes
+Execute in STG?:  No
+Is Backfill?:  No
+User Story Association:  US00000
+SVN Revision #: 
+Iteration: Iteration 93
+
+
+
+
+\\RCHPWVMGMSQL01.prod.corpint.net\sqlimplementations$\dba\run

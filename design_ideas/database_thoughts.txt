@@ -1,0 +1,41 @@
+chops database thoughts and relations
+
+STEP1
+thinking that we will recieve a message and store it in the recievedMessage table, then process ABC_Parse will look over the table, parse what it can and create job records and respone records.
+STEP2
+Process 123_jobHandler will work the job and update the jobStatus table appropiately.
+STEP2b
+When the 123_jobHandler updates a status, it also creates a response record that can potentially pass messages back to the sender(s).
+STEP3
+XYZ_messenger service can read the response table and send messages out if they have not been sent already.
+
+
+
+job
+jobId, jobStatusId, commandId, userId, lastUpdated
+
+user
+userId, userName, linqAddress, emailAddress, lastActivity
+
+userPref
+userId, prefKey, prefValue, prefDataType
+
+
+commands (low level version)
+commandName, serverIp, socket, responseType, 
+
+commands (powershell version)
+commandName, responseType?
+
+
+recievedMessage (used to create jobs)
+messageType, fromUserName, recievedText, tryParsedUserId, tryParsedCommandId, createdOn,
+
+response
+recievedMessageId, jobId, responseTextBackToUser
+
+
+
+-shon
+
+p.s. muahahahaha

@@ -1,0 +1,77 @@
+automating some of the design document.
+
+most likely need to access the office api in order to create a document programatically that meets the formatting expectation. later later.
+
+first goal is to just get some copy paste information generated in the cli. so that i don't have to hunt down all the information all over the place.
+
+
+
+
+
+===== PAGE 1 =====
+
+[ ] the title includes all the stories seperated by space and ends with "Design". exclude and stories with name ending in "Support"
+
+US59482 US61413 US62256 US62258 US62280 US62331 US62334 US62379 Design
+
+[ ] the date needs to be updated to today
+
+
+
+
+
+===== PAGE 2 =====
+
+[ ] fill out submitted by as "username" likely gathered from conf file
+[ ] fill out date as today
+
+
+
+
+
+===== PAGE 3 =====
+
+skip (table of contents)
+
+
+
+
+
+===== PAGE 4 =====
+
+[ ] place the links leading to the rally user stories as table format with headers story number, full link to story
+
+US59482 https://rally1.rallydev.com/#/15188699182d/detail/userstory/34654766042
+US61413 https://rally1.rallydev.com/#/15188699182d/detail/userstory/37837149980
+US62256 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39283403190
+US62258 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39285535986
+US62280 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39330911227
+US62331 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39355494321
+US62334 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39355824492
+US62379 https://rally1.rallydev.com/#/15188699182d/detail/userstory/39421105437
+
+[ ] if criteria is met (ask ross), then create the task automatically for the architect. (gathered from conf file)
+
+
+
+
+
+===== PAGE 5 =====
+
+[ ] grab any attachments links found in rally for any of the stories and build a table with links to those attachments. place these in the 4.1 UI Design page
+
+attachment_name https://rally1.rallydev.com/slm/attachment/39356688859/Enterprise%20Logging%20Standards.docx
+
+
+[ ] maybe collab with the dba impl automatiuon. (like it generates a report that we can just dump into section 5.1)
+
+[ ] build a table of stories and stored procs. (also get this information from the dba impl report)
+
+US62331 Captive.Incentive.pr_GetALGMakeCodeFilter
+
+[ ] somehow get the csproj files related to a solution
+C:\development\SourceCode\trunk\AutoIndirect\Libraries\RIMS\Server\Drive.Rims.Server.csproj
+C:\development\SourceCode\trunk\AutoIndirect\Web Applications\Web Sites\RIMS\Drive.Rims.Web.csproj
+
+[ ] 
+

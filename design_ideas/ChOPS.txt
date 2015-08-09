@@ -1,0 +1,242 @@
+ChOPS
+
+What is ChOPS?
+-an interactive command line
+-a robot that we can communicate with using human words in order to help us do our (job so we can be lazy)
+-ultimetely aims to replace our beloved project managers duties
+-automator of lame things
+
+
+
+
+
+What Can ChOPS do?
+-answer basic questions
+-perform annoying administrative tasks
+-automatically remind others to be accountable
+-send insults to your nemisis (secret feature)
+-know when someone/something drops the ball
+-remember what it has done (like configuration preferences)
+
+
+
+
+
+What can ChOPS understand?
+-basic english (other langs later)
+-text streams
+-instant messanger messages (Linq)
+-emails (smtp read)
+
+
+
+
+
+What is the ChOPS hackathon stack ?
+- a bunch of bits
+- sqlite (because we are likely not going to get infastructure support)
+- scusa automation suite (such as rallybot and pmdeath cli apps that shon made)
+- c++ socket manager ? OR c# stream reader (jim's max ip controls)
+- Linq SDK (stretch goal?)
+- MS Office SDK (stretch goal for the cleanest design doc generation)
+
+
+
+
+
+
+What is the ideal ChOPS stack ?
+- MSSQL
+- 
+
+
+
+
+
+Example usage of ChOPS:
+
+linq> Send a status report to my boss 
+linq> will you send a status report to my boss 
+linq> will you send a status report
+linq> send out the latest status report
+linq> generate status report
+linq> get me the status report for this week
+
+bot: sure thing <user_name>. I have sent an email formated version to both you and <boss_name>. Also, here is the cli output
+
+iteration 92 (J31)Originations_2015_3.1_SPUL_LOS_Minor_Enhancements
+iteration 92H (J31)Originations_2015_3.1_SPUL_LOS_Minor_Enhancements
+==========================
+
+Derrick J. McDowell
+RIMS UI Worksheet - Apply Worksheet creation rules when creating worksheet
+July 15 2015
+Accepted
+-----------------------
+
+Antonio Gonzalez
+RIMS UI - Worksheet - Naming and Saving a Worksheet
+July 15 2015
+Accepted
+-----------------------
+
+linq> i dont want to see cli output
+linq> you talk too much
+linq> please do not show me cli output
+linq> i fucking hate command line output!
+
+bot: i wont bother you with the details from now on.
+
+linq> Thanks chops, your the best.
+
+bot: i know i am
+
+linq> What is the latest build number for my project ?
+
+bot: what project are you working on?
+
+linq> its called rims
+
+bot: oh that is currently on build 1467. Ill remember that you are working on rims project.
+
+
+
+
+
+OTHER IDEAS for ChOPS:
+
+$command
+$difficulty
+$method
+
+Send status report to my boss 
+medium (done)
+rally API
+
+Help me fill out rally time
+medium (done)
+rally api
+
+Make me a design document template for this iteration
+hard?
+MS Office SDK?
+
+What iteration are we on?
+easy
+config and timing context
+
+What day is it?
+easy
+GETDATE()
+
+When is that stupid push window?
+easy
+canned response in database 'tutorial table'
+
+How do i manually submit a dba impl?
+easy
+canned response in database 'tutorial table'
+
+What are my current tasks?
+easy
+rally api
+
+Who is my assigned ase?
+hard?
+???
+
+Who is my assigned dba?
+hard?
+???
+
+Can you create a new impl for me ?
+hard
+ask ross for tips
+
+You messed up my status report yesterday (or you messed up ___)
+hard
+good database design and task recognition
+
+What did i ask you to do ?
+medium
+good database design and task recognition
+
+I changed my mind about ___ ?
+hard
+good database design and task recognition (Bot: its too late, the nuke has been launched.)
+
+What project am i working on?
+easy
+config or rally api
+
+Who broke the build?
+easy
+smtp or web crawl
+
+What is the latest build?
+easy
+web crawl
+
+Hey chops, spin a build for me.
+hard?
+????
+
+push to test (or push to dev)
+hard?
+combines the dba impl and the build spinning with an email to ases using the gnat module
+
+what have you been up to?
+medium
+can pull down tasks that it has completed for this user
+
+NOTES:
+
+
+GNAT MODULE:
+Also bot will monitor email and or chat console in order to establish if a task has been started or not by the ase group. And possibly if it has finished. Call it gnat module.
+Since both ase and dba are terrible with responding, bot will message them on dev behalf asking for an update every hour until they respond back, which will cause the delay to be 4 hours until they message back with done or complete.
+----------
+
+
+
+
+INFASTRUCTURE OBSTACLE:
+assume that we will not have access to all scusa resources and departments and build a solution that does not depend on too much of it (such as the databaes)
+
+INFASTRUCTURE OBSTACLE:
+if we take the stream reader route AND we are not able to secure a dedicated channel to the chops bot, then
+The bot will function as a server watching the linq chat of a particular user(dedicated uer). It will act as a sort of interactive commandline.
+Generated messages will need to contain some kind of identifier that flags the engine not to act on this line of text.
+Linq: "BOT: this is a response from chops bot"
+So new messages can be parsed out. Since i predict i will not be able to have my own chat account for this at first. Will have to use the same account as server and client.
+----------
+
+
+
+
+
+HUMANLIKE BEHAVIOR:
+The chatbot will be smart enough to remember key bits of information such as your favorite kind of response judging from your response to its response. Judements based on caps= negative, bad words= negative, 
+
+bot will secretely gather this information in the background and have canned responses for some things.
+
+If rallybot cant figure it out, then it will just ask the user and remember it for next time.
+
+We can also tell bot that it screwed up something, which will prompt a reconfig of properties that were used in the last task it tried to complete.
+
+Maybe get more specific and say "You messed up my status report yesterday"
+
+Then the bot will be smart enough to detect time context and check tasks completed for the user date minus one related to string status report
+
+Fun responses when failed input. I cant do that. Ascii art hal death robot
+
+
+
+My thought process on application flow:
+request hits Server Looping/listening Service -> backend configuration read (personalized conf/records)-> process request and record work (automation suite)-> send human response back to requester
+
+The server will continuously read the latest unread input and process the command and generate human like output to the chat window, while building the cli output and completing whatever task the user wanted.
+
+Regex misspells for true command
+(We support human foolishness)
+Hel fil ral tim
